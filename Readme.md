@@ -25,6 +25,7 @@ The application should then be able to recommend the best destinations and hotel
 # __Deliverables__ 🗃
 
  * Three .csv files in an S3 bucket containing enriched information about the weather, hotels for each french city and another one with there lat and lon coordinates.
+ * Two .py files for scraping the information on booking, one for the general information, and the second for the hotels coordinates.
  * A SQL Database where with the same cleaned data from S3 you can check the screenshots for
  * Two maps with a Top-5 destinations and a Top-20 hotels in the area in the Jupyter Notebook.
 
