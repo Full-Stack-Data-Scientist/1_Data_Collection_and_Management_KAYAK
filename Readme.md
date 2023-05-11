@@ -33,4 +33,4 @@ The application should then be able to recommend the best destinations and hotel
 
 # __Project Video Presentation__ 📷
 
-On Vidyard: www.XXXXX.com
+On Vidyard: https://share.vidyard.com/watch/ckksy9nFcvKU3EhYCc3WU8?
